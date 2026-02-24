@@ -59,7 +59,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       company: "Arcana Inc.",
-      position: "FrontEnd Engineer & React",
+      position: "Frontend Engineer & React",
       startDate: "Feb 2023",
       endDate: "Sep 2024",
       summary: [
@@ -109,7 +109,7 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Nurzhan M., Full Stack Engineer with 3+ years of commercial experience. Primary focus on JavaScript/TypeScript with Vue/Nuxt and React/Next, combined with hands-on experience as a Golang backend developer. Worked with Kubernetes, Kafka, PostgreSQL, and Oracle on production systems, contributing to architecture, refactoring, and cross-team integration.
+      Hi, I’m Nurzhan, Full Stack Engineer with 3+ years of commercial experience. Primary focus on JavaScript/TypeScript with Vue/Nuxt and React/Next, combined with hands-on experience as a Golang backend developer. Worked with Kubernetes, Kafka, PostgreSQL, and Oracle on production systems, contributing to architecture, refactoring, and cross-team integration.
 
 
       Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
