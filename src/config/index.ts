@@ -2,10 +2,10 @@ import type { SiteConfig, SiteContent } from "../types";
 
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Nurzhan Momynkul — Mobile & Web Developer",
-  author: "Nurzhan Momynkul",
+  title: "Nurzhan M — Web Developer",
+  author: "Nurzhan",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "Software Engineer based in Almaty, Kazakhstan. I specialize in web and mobile application development and maintenance.",
   lang: "en",
   siteLogo: "/me-sm1.jpg",
   navLinks: [
@@ -27,16 +27,16 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Nurzhan Momynkul",
+    name: "Nurzhan M.",
     specialty: "Software Engineer",
     summary:
-      "Developer based in Almaty, Kazakhstan. I specialize in UI design, web and mobile application development and maintenance.",
+      "Developer based in Almaty, Kazakhstan. I specialize in web and mobile application development and maintenance.",
     email: "nurzhanmomynov01@email.com",
   },
   experience: [
     {
       company: "Halyk Bank",
-      position: "Full Stack Developer (Go, TS)",
+      position: "Full Stack Engineer (Go, TS)",
       startDate: "October 2024",
       endDate: "Present",
       summary: [
@@ -59,7 +59,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       company: "Arcana Inc.",
-      position: "FrontEnd Developer & React",
+      position: "FrontEnd Engineer & React",
       startDate: "Feb 2023",
       endDate: "Sep 2024",
       summary: [
@@ -71,7 +71,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       company: "NLS Kazakhstan",
-      position: "Frontend Developer & Vue",
+      position: "Frontend Engineer & Vue",
       startDate: "Feb 2022",
       endDate: "Feb 2023",
       summary: [
@@ -109,7 +109,7 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Nurzhan Momynkul, Full Stack Engineer with 3+ years of commercial experience. Primary focus on JavaScript/TypeScript with Vue/Nuxt and React/Next, combined with hands-on experience as a Golang backend developer. Worked with Kubernetes, Kafka, PostgreSQL, and Oracle on production systems, contributing to architecture, refactoring, and cross-team integration.
+      Hi, I’m Nurzhan M., Full Stack Engineer with 3+ years of commercial experience. Primary focus on JavaScript/TypeScript with Vue/Nuxt and React/Next, combined with hands-on experience as a Golang backend developer. Worked with Kubernetes, Kafka, PostgreSQL, and Oracle on production systems, contributing to architecture, refactoring, and cross-team integration.
 
 
       Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
